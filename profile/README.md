@@ -1,7 +1,6 @@
-
 <!-- Inkwell org profile — keep in sync with docs/presence-registries/owned-presence/ -->
 <div align="center">
-  <a href="https://inkwell.software">
+  <a href="https://inkwell.software/?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=hero_logo">
     <img src="https://www.inkwell.software/logo/icon-color.svg" width="96" height="96" alt="Inkwell" />
   </a>
   <h1>Inkwell</h1>
@@ -11,9 +10,9 @@
     Documents as structured data — not dead pages.
   </p>
   <p>
-    <a href="https://inkwell.software"><img src="https://img.shields.io/badge/Website-inkwell.software-0c1222?style=for-the-badge&labelColor=1e293b" alt="Website" /></a>
-    <a href="https://app.inkwell.software/signup"><img src="https://img.shields.io/badge/Start_writing-free-34d399?style=for-the-badge&labelColor=1e293b" alt="Start writing free" /></a>
-    <a href="https://inkwell.software/pricing"><img src="https://img.shields.io/badge/Pricing-from_$19%2Fmo-818cf8?style=for-the-badge&labelColor=1e293b" alt="Pricing" /></a>
+    <a href="https://inkwell.software/?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=hero_website"><img src="https://img.shields.io/badge/Website-inkwell.software-0c1222?style=for-the-badge&labelColor=1e293b" alt="Website" /></a>
+    <a href="https://app.inkwell.software/signup?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=hero_signup"><img src="https://img.shields.io/badge/Start_writing-free-34d399?style=for-the-badge&labelColor=1e293b" alt="Start writing free" /></a>
+    <a href="https://inkwell.software/pricing?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=hero_pricing"><img src="https://img.shields.io/badge/Pricing-from_$19%2Fmo-818cf8?style=for-the-badge&labelColor=1e293b" alt="Pricing" /></a>
   </p>
   <p>
     <a href="https://x.com/InkwellSoftware"><img src="https://img.shields.io/badge/X-InkwellSoftware-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
@@ -31,10 +30,10 @@
   <table align="center">
     <tr>
       <td width="50%" align="center" valign="top">
-        <a href="https://inkwell.software/plot">
+        <a href="https://inkwell.software/plot?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=plot_logo">
           <img src="https://www.inkwell.software/logo/icon-color.svg" width="56" height="56" alt="Plot" />
         </a>
-        <h3><a href="https://inkwell.software/plot">Plot</a></h3>
+        <h3><a href="https://inkwell.software/plot?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=plot_heading">Plot</a></h3>
         <p>
           <img src="https://img.shields.io/badge/Available_now-34d399?style=flat-square&labelColor=0c1222" alt="Available now" />
         </p>
@@ -47,13 +46,13 @@
           <img src="https://img.shields.io/badge/FDX-import%2Fexport-1e293b?style=flat-square&labelColor=334155" alt="FDX" />
           <img src="https://img.shields.io/badge/Reviewable_AI-1e293b?style=flat-square&labelColor=334155" alt="Reviewable AI" />
         </p>
-        <p><a href="https://inkwell.software/plot"><strong>Open Plot →</strong></a></p>
+        <p><a href="https://inkwell.software/plot?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=plot_cta"><strong>Open Plot →</strong></a></p>
       </td>
       <td width="50%" align="center" valign="top">
-        <a href="https://inkwell.software/canvas">
+        <a href="https://inkwell.software/canvas?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=canvas_logo">
           <img src="https://www.inkwell.software/logo/icon-canvas-alt.svg" width="56" height="56" alt="Canvas" />
         </a>
-        <h3><a href="https://inkwell.software/canvas">Canvas</a></h3>
+        <h3><a href="https://inkwell.software/canvas?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=canvas_heading">Canvas</a></h3>
         <p>
           <img src="https://img.shields.io/badge/Coming_soon-818cf8?style=flat-square&labelColor=0c1222" alt="Coming soon" />
         </p>
@@ -66,7 +65,7 @@
           <img src="https://img.shields.io/badge/Draft_lines-1e293b?style=flat-square&labelColor=334155" alt="Draft lines" />
           <img src="https://img.shields.io/badge/Reviewable_AI-1e293b?style=flat-square&labelColor=334155" alt="Reviewable AI" />
         </p>
-        <p><a href="https://inkwell.software/canvas"><strong>Canvas overview →</strong></a></p>
+        <p><a href="https://inkwell.software/canvas?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=canvas_cta"><strong>Canvas overview →</strong></a></p>
       </td>
     </tr>
   </table>
@@ -127,17 +126,17 @@
 <div align="center">
   <h2>Explore</h2>
   <p>
-    <a href="https://app.inkwell.software"><img src="https://img.shields.io/badge/App-app.inkwell.software-0c1222?style=for-the-badge&labelColor=1e293b" alt="App" /></a>
-    <a href="https://inkwell.software/pricing"><img src="https://img.shields.io/badge/Pricing-inkwell.software%2Fpricing-818cf8?style=for-the-badge&labelColor=1e293b" alt="Pricing" /></a>
-    <a href="https://inkwell.software/compare"><img src="https://img.shields.io/badge/Compare-tools-64748b?style=for-the-badge&labelColor=1e293b" alt="Compare" /></a>
+    <a href="https://app.inkwell.software?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=explore_app"><img src="https://img.shields.io/badge/App-app.inkwell.software-0c1222?style=for-the-badge&labelColor=1e293b" alt="App" /></a>
+    <a href="https://inkwell.software/pricing?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=explore_pricing"><img src="https://img.shields.io/badge/Pricing-inkwell.software%2Fpricing-818cf8?style=for-the-badge&labelColor=1e293b" alt="Pricing" /></a>
+    <a href="https://inkwell.software/compare?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=explore_compare"><img src="https://img.shields.io/badge/Compare-tools-64748b?style=for-the-badge&labelColor=1e293b" alt="Compare" /></a>
   </p>
   <p>
-    <a href="https://inkwell.software/alternatives/final-draft"><img src="https://img.shields.io/badge/Alternative-Final%20Draft-334155?style=flat-square" alt="Final Draft alternative" /></a>
-    <a href="https://inkwell.software/alternatives/writerduet"><img src="https://img.shields.io/badge/Alternative-WriterDuet-334155?style=flat-square" alt="WriterDuet alternative" /></a>
-    <a href="https://inkwell.software/resources"><img src="https://img.shields.io/badge/Resources-guides-334155?style=flat-square" alt="Resources" /></a>
-    <a href="https://inkwell.software/changelog"><img src="https://img.shields.io/badge/Changelog-updates-334155?style=flat-square" alt="Changelog" /></a>
-    <a href="https://inkwell.software/about"><img src="https://img.shields.io/badge/About-team-334155?style=flat-square" alt="About" /></a>
-    <a href="https://inkwell.software/security"><img src="https://img.shields.io/badge/Security-trust-334155?style=flat-square" alt="Security" /></a>
+    <a href="https://inkwell.software/alternatives/final-draft?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=alternative_final_draft"><img src="https://img.shields.io/badge/Alternative-Final%20Draft-334155?style=flat-square" alt="Final Draft alternative" /></a>
+    <a href="https://inkwell.software/alternatives/writerduet?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=alternative_writerduet"><img src="https://img.shields.io/badge/Alternative-WriterDuet-334155?style=flat-square" alt="WriterDuet alternative" /></a>
+    <a href="https://inkwell.software/resources?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=explore_resources"><img src="https://img.shields.io/badge/Resources-guides-334155?style=flat-square" alt="Resources" /></a>
+    <a href="https://inkwell.software/changelog?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=explore_changelog"><img src="https://img.shields.io/badge/Changelog-updates-334155?style=flat-square" alt="Changelog" /></a>
+    <a href="https://inkwell.software/about?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=explore_about"><img src="https://img.shields.io/badge/About-team-334155?style=flat-square" alt="About" /></a>
+    <a href="https://inkwell.software/security?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=explore_security"><img src="https://img.shields.io/badge/Security-trust-334155?style=flat-square" alt="Security" /></a>
     <a href="https://fountain.io"><img src="https://img.shields.io/badge/Fountain-fountain.io-334155?style=flat-square" alt="Fountain" /></a>
   </p>
 </div>
@@ -151,14 +150,14 @@
   <p>
     <a href="mailto:support@inkwell.software"><img src="https://img.shields.io/badge/Support-support%40inkwell.software-0c1222?style=for-the-badge&labelColor=1e293b" alt="Support" /></a>
     <a href="mailto:team@inkwell.software"><img src="https://img.shields.io/badge/Team-team%40inkwell.software-0c1222?style=for-the-badge&labelColor=1e293b" alt="Team" /></a>
-    <a href="https://inkwell.software/security"><img src="https://img.shields.io/badge/Security-inkwell.software%2Fsecurity-818cf8?style=for-the-badge&labelColor=1e293b" alt="Security" /></a>
+    <a href="https://inkwell.software/security?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=organization_security"><img src="https://img.shields.io/badge/Security-inkwell.software%2Fsecurity-818cf8?style=for-the-badge&labelColor=1e293b" alt="Security" /></a>
   </p>
 </div>
 <br/>
 <div align="center">
   <h2>Elsewhere</h2>
   <p>
-    <a href="https://inkwell.software"><img src="https://img.shields.io/badge/Website-inkwell.software-0c1222?style=flat-square&labelColor=1e293b" alt="Website" /></a>
+    <a href="https://inkwell.software/?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=elsewhere_website"><img src="https://img.shields.io/badge/Website-inkwell.software-0c1222?style=flat-square&labelColor=1e293b" alt="Website" /></a>
     <a href="https://github.com/inkwell-app"><img src="https://img.shields.io/badge/GitHub-inkwell--app-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://x.com/InkwellSoftware"><img src="https://img.shields.io/badge/X-InkwellSoftware-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
     <a href="https://www.linkedin.com/company/inkwell-software"><img src="https://img.shields.io/badge/LinkedIn-inkwell--software-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -169,5 +168,5 @@
 <br/>
 <div align="center">
   <sub>Inkwell is a writer’s tool, not an AI toy.</sub><br/>
-  <a href="https://app.inkwell.software/signup"><strong>Start writing free →</strong></a>
+  <a href="https://app.inkwell.software/signup?utm_source=github&utm_medium=organic&utm_campaign=github_org_readme&utm_content=footer_signup"><strong>Start writing free →</strong></a>
 </div>
