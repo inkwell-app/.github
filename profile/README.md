@@ -72,6 +72,16 @@
 </div>
 <br/>
 <div align="center">
+  <h2>Inside Plot</h2>
+  <p>Your outline, screenplay, and writing companion in one workspace.</p>
+  <p>
+    <a href="https://www.inkwell.software/help/getting-started/find-your-way-around?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=visual_editor_overview_dark&amp;utm_id=github_org_profile&amp;utm_source_platform=github#gh-dark-mode-only"><img src="https://www.inkwell.software/help/editor-overview.dark.webp" width="900" alt="Plot with the scene outline on the left, screenplay in the center, and AI companion on the right." /></a>
+          <a href="https://www.inkwell.software/help/getting-started/find-your-way-around?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=visual_editor_overview_light&amp;utm_id=github_org_profile&amp;utm_source_platform=github#gh-light-mode-only"><img src="https://www.inkwell.software/help/editor-overview.light.webp" width="900" alt="Plot with the scene outline on the left, screenplay in the center, and AI companion on the right." /></a><br/>
+          <a href="https://www.inkwell.software/help/getting-started/find-your-way-around?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=visual_editor_overview&amp;utm_id=github_org_profile&amp;utm_source_platform=github"><strong>Find your way around Plot →</strong></a>
+  </p>
+</div>
+<br/>
+<div align="center">
   <h2>Why Inkwell</h2>
   <p>Documents as structured data unlock version control and AI that feel like craft — not ceremony.</p>
 </div>
@@ -106,6 +116,9 @@
           A rewritten line of dialogue as <strong>one</strong> change.<br/>
           Readable markup — not a wall of line noise.
         </p>
+        <p><a href="https://www.inkwell.software/help/version-control/changes-and-markup?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=visual_changes_markup_dark&amp;utm_id=github_org_profile&amp;utm_source_platform=github#gh-dark-mode-only"><img src="https://www.inkwell.software/help/history-compare.dark.webp" width="440" alt="Plot displays removed and added screenplay text as markup, alongside the History panel." /></a>
+          <a href="https://www.inkwell.software/help/version-control/changes-and-markup?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=visual_changes_markup_light&amp;utm_id=github_org_profile&amp;utm_source_platform=github#gh-light-mode-only"><img src="https://www.inkwell.software/help/history-compare.light.webp" width="440" alt="Plot displays removed and added screenplay text as markup, alongside the History panel." /></a><br/>
+          <a href="https://www.inkwell.software/help/version-control/changes-and-markup?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=visual_changes_markup&amp;utm_id=github_org_profile&amp;utm_source_platform=github"><strong>Read changes on the page →</strong></a></p>
       </td>
       <td width="50%" align="center" valign="top">
         <img src="https://www.inkwell.software/logo/icon-on-dark.svg" width="40" height="40" alt="" />
@@ -115,6 +128,9 @@
           Proposed diffs you accept or reject.<br/>
           BYOK or bundled — nothing applies without your say-so.
         </p>
+        <p><a href="https://www.inkwell.software/help/getting-started/your-first-ai-pass?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=visual_skills_library_dark&amp;utm_id=github_org_profile&amp;utm_source_platform=github#gh-dark-mode-only"><img src="https://www.inkwell.software/help/skills-tab.dark.webp" width="440" alt="The Plot Skills tab with Dialogue Pass expanded beside a screenplay." /></a>
+          <a href="https://www.inkwell.software/help/getting-started/your-first-ai-pass?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=visual_skills_library_light&amp;utm_id=github_org_profile&amp;utm_source_platform=github#gh-light-mode-only"><img src="https://www.inkwell.software/help/skills-tab.light.webp" width="440" alt="The Plot Skills tab with Dialogue Pass expanded beside a screenplay." /></a><br/>
+          <a href="https://www.inkwell.software/help/getting-started/your-first-ai-pass?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=visual_skills_library&amp;utm_id=github_org_profile&amp;utm_source_platform=github"><strong>Choose your first AI pass →</strong></a></p>
       </td>
     </tr>
   </table>
@@ -196,7 +212,10 @@
     <a href="https://www.linkedin.com/company/inkwell-software"><img src="https://img.shields.io/badge/LinkedIn-inkwell--software-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://huggingface.co/Inkwell-Software"><img src="https://img.shields.io/badge/Hugging%20Face-Inkwell--Software-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   </p>
-  <p><a href="https://www.youtube.com/@InkwellSoftware">YouTube — product demonstrations</a> · <a href="https://www.reddit.com/user/InkwellSoftware/">Reddit</a> · <a href="https://inkwellsoftware.quora.com/">Quora Space</a> · <a href="https://www.quora.com/profile/Inkwell-14">Quora business profile</a></p>
+  <p><a href="https://www.youtube.com/@InkwellSoftware" title="YouTube — product demonstrations"><img src="https://app.inkwell.software/email/social/youtube.png" width="20" height="20" alt="YouTube — product demonstrations" /></a>
+    <a href="https://www.reddit.com/user/InkwellSoftware/" title="Reddit"><img src="https://app.inkwell.software/email/social/reddit.png" width="20" height="20" alt="Reddit" /></a>
+    <a href="https://inkwellsoftware.quora.com/" title="Quora Space"><img src="https://app.inkwell.software/email/social/quora.png" width="20" height="20" alt="Quora Space" /></a>
+    <a href="https://www.quora.com/profile/Inkwell-14" title="Quora business profile"><img src="https://app.inkwell.software/email/social/quora.png" width="20" height="20" alt="Quora business profile" /></a></p>
   <p><sub>Discord — coming soon</sub></p>
 </div>
 <br/>
