@@ -94,7 +94,7 @@
         <img src="https://img.shields.io/badge/Save_points-34d399?style=for-the-badge&labelColor=0c1222" alt="Save points" />
         <p>
           Immutable snapshots of your work.<br/>
-          Nothing is ever lost — roll back anytime without ceremony.
+          Roll back to any of them, anytime.
         </p>
       </td>
       <td width="50%" align="center" valign="top">
