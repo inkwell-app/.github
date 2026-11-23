@@ -6,7 +6,7 @@
   <h1>Inkwell</h1>
   <p><strong>The IDE for writers</strong></p>
   <p>
-    Version control and reviewable AI for screenwriting and structured documents.<br/>
+    Version control and reviewable AI for screenplays, treatments and outlines.<br/>
     Documents as structured data — not dead pages.
   </p>
   <p>
@@ -23,13 +23,13 @@
 </div>
 <br/>
 <div align="center">
-  <h2>Products</h2>
-  <p>One platform · two products · shared primitives</p>
+  <h2>Start in Plot</h2>
+  <p>Free to start, in the browser on Mac, Windows, Linux and Chromebook</p>
 </div>
 <div align="center">
   <table align="center">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td align="center" valign="top">
         <a href="https://www.inkwell.software/plot?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=plot_logo&amp;utm_id=github_org_profile&amp;utm_source_platform=github">
           <img src="https://www.inkwell.software/logo/icon-color.svg" width="56" height="56" alt="Plot" />
         </a>
@@ -39,33 +39,17 @@
         </p>
         <p>
           <strong>The screenwriter’s IDE.</strong><br/>
-          Fountain-native drafting, Final Draft (FDX) import/export, and industry formatting — plus save points, draft lines, and screenplay-aware AI skills that propose edits you accept or reject.
+          Fountain-native drafting, Final Draft (FDX) import/export, and industry formatting — plus save points, draft lines, and screenplay-aware AI skills that propose edits you accept or reject.<br/>
+          Outlines, treatments and series bibles stay in prose beside the script until a beat is ready to become scenes.
         </p>
         <p>
           <img src="https://img.shields.io/badge/Fountain-native-1e293b?style=flat-square&labelColor=334155" alt="Fountain" />
           <img src="https://img.shields.io/badge/FDX-import%2Fexport-1e293b?style=flat-square&labelColor=334155" alt="FDX" />
-          <img src="https://img.shields.io/badge/Reviewable_AI-1e293b?style=flat-square&labelColor=334155" alt="Reviewable AI" />
-        </p>
-        <p><a href="https://www.inkwell.software/plot?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=plot_cta&amp;utm_id=github_org_profile&amp;utm_source_platform=github"><strong>Open Plot →</strong></a></p>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <a href="https://www.inkwell.software/canvas?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=canvas_logo&amp;utm_id=github_org_profile&amp;utm_source_platform=github">
-          <img src="https://www.inkwell.software/logo/icon-canvas-alt.svg" width="56" height="56" alt="Canvas" />
-        </a>
-        <h3><a href="https://www.inkwell.software/canvas?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=canvas_heading&amp;utm_id=github_org_profile&amp;utm_source_platform=github">Canvas</a></h3>
-        <p>
-          <img src="https://img.shields.io/badge/Early_access-818cf8?style=flat-square&labelColor=0c1222" alt="Early access" />
-        </p>
-        <p>
-          <strong>Structured documents on the same platform.</strong><br/>
-          Save points, draft lines, semantic changes, and reviewable AI — beyond screenplays. Rich text and Markdown round-trip for treatments, series bibles, research, and project docs. Canvas is in early access for Pro and Team; join via the Canvas page.
-        </p>
-        <p>
           <img src="https://img.shields.io/badge/Save_points-1e293b?style=flat-square&labelColor=334155" alt="Save points" />
           <img src="https://img.shields.io/badge/Draft_lines-1e293b?style=flat-square&labelColor=334155" alt="Draft lines" />
           <img src="https://img.shields.io/badge/Reviewable_AI-1e293b?style=flat-square&labelColor=334155" alt="Reviewable AI" />
         </p>
-        <p><a href="https://www.inkwell.software/canvas?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=canvas_cta&amp;utm_id=github_org_profile&amp;utm_source_platform=github"><strong>Canvas overview →</strong></a></p>
+        <p><a href="https://www.inkwell.software/plot?utm_source=github&amp;utm_medium=referral&amp;utm_campaign=github_org_readme&amp;utm_content=plot_cta&amp;utm_id=github_org_profile&amp;utm_source_platform=github"><strong>Open Plot →</strong></a></p>
       </td>
     </tr>
   </table>
